@@ -1,6 +1,6 @@
 {
   "name": "@webtides/postcss-touch-hover",
-  "version": "0.1.0",
+  "version": "0.1.0-1",
   "description": "little postcss plugin for mobile touch",
   "main": "index.js",
   "scripts": {
