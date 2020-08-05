@@ -1,0 +1,27 @@
+{
+  "name": "postcss-touch-hover",
+  "version": "0.1.0",
+  "description": "little postcss plugin for mobile touch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtides/postcss-touch-hover.git"
+  },
+  "keywords": [
+    "postcss",
+    "touch",
+    "hover"
+  ],
+  "author": "@webtides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webtides/postcss-touch-hover/issues"
+  },
+  "homepage": "https://github.com/webtides/postcss-touch-hover#readme",
+  "dependencies": {
+    "postcss": "^7.0.32"
+  }
+}
