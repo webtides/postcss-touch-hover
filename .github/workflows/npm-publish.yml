@@ -23,7 +23,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: 12
-        regestry-url: https://npm.pkg.github.com/
+        registry-url: https://npm.pkg.github.com/
 
     # Runs a single command using the runners shell
     - name: execute npm install command
